@@ -3,7 +3,7 @@ from models.user import User
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
-class UserRepository:
+class UserRepo:
 
     def create_user(
             self, 
