@@ -1,0 +1,7 @@
+
+
+class UserStatus:
+    ACTIVE = 'ACTIVE'
+    DELETED = 'DELETED'
+    INACTIVE = 'INACTIVE'
+    SUSPENDED = 'SUSPENDED'
